@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    com.musenet.musenet.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.musenet.musenet.config.\
+    TestContainersSpringContextCustomizerFactory
